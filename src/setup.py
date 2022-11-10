@@ -1,8 +1,14 @@
 import os
 from multiprocessing import Process
 os.system("clear")
-sudo_check = input("Are you running this script as sudo? [y/n]: ")
-if sudo_check == "y":
+sudo_check = input("Are you on Termux [y/n]: ")
+if sudo_check == "n":
+    verifica_sudo = input("Are you running this script as sudo? [y/n]: ")
+    if verifica_sudo == "y":
+        pass
+    else:
+        print("run this script as sudo")
+        exit()
     pass
 else:
     scelta_termux = input("are you on termux? [y/n]: ")
