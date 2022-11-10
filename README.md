@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>A easy to use, Automated phishing tool.</b> <br><br>
-  <img src="https://img.shields.io/badge/Version-0.2.2-green" alt=""/>
+  <img src="https://img.shields.io/badge/Version-0.1.0-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
   <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
 
