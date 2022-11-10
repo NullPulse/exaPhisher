@@ -69,12 +69,12 @@ else:
 '''
 def banner():
     print(bcolors.WARNING+'''
-                      '''+bcolors.OKGREEN+'''______ _         _ _ '''+bcolors.WARNING+'''              
-                      '''+bcolors.OKGREEN+'''| ___ \ |       (_) |'''+bcolors.WARNING+'''             
-         _____  ____ _'''+bcolors.OKGREEN+'''| |_/ / |__  ___ _| |__   ___ _ __'''+bcolors.WARNING+''' 
-        / _ \ \/ / _` '''+bcolors.OKGREEN+'''|  __/| '_ \/ __| | '_ \ / _ \ '__|'''+bcolors.WARNING+'''
-       |  __/>  < (_| '''+bcolors.OKGREEN+'''| |   | | | \__ \ | | | |  __/ |'''+bcolors.WARNING+'''   
-        \___/_/\_\__,_'''+bcolors.OKGREEN+'''\_|   |_| |_|___/_|_| |_|\___|_|'''+bcolors.WARNING+'''   
+                      '''+bcolors.OKGREEN+'''______ _     _     _          '''+bcolors.WARNING+'''              
+                      '''+bcolors.OKGREEN+'''| ___ \ |   (_)   | |              '''+bcolors.WARNING+'''             
+         _____  ____ _'''+bcolors.OKGREEN+'''| |_/ / |__  _ ___| |__   ___ _ __'''+bcolors.WARNING+''' 
+        / _ \ \/ / _` '''+bcolors.OKGREEN+'''|  __/| '_ \| / __| '_ \ / _ \ '__|'''+bcolors.WARNING+'''
+       |  __/>  < (_| '''+bcolors.OKGREEN+'''| |   | | | | \__ \ | | |  __/ |'''+bcolors.WARNING+'''   
+        \___/_/\_\__,_'''+bcolors.OKGREEN+'''\_|   |_| |_|_|___/_| |_|\___|_|'''+bcolors.WARNING+'''   
 
   '''+square_version+bcolors.OKGREEN+''' ╍'''+bcolors.OKBLUE+''' Phishing tool by @SamueleAmato '''+bcolors.OKGREEN+'''╍
 
