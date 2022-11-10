@@ -1,4 +1,5 @@
 import os
+termuxx = "false"
 try:
     from src.termux_ver import *
 except Exception:
