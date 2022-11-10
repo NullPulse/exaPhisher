@@ -1,5 +1,6 @@
 import os
 from multiprocessing import Process
+scelta_termux == "false"
 os.system("clear")
 sudo_check = input("Are you on Termux [y/n]: ")
 if sudo_check == "n":
