@@ -7,7 +7,7 @@ if sudo_check == "y":
 else:
     scelta_termux = input("are you on termux? [y/n]: ")
     if scelta_termux == "y":
-        os.system("touch /src/termux_ver.py")
+        os.system("touch ./src/termux_ver.py")
         pass
     else:
         print("please run this script as sudo")
