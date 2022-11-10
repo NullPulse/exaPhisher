@@ -52,12 +52,12 @@ square_1_host = (bcolors.FAIL+"["+bcolors.ENDC+"1"+bcolors.FAIL+"]"+bcolors.WARN
 square_2_host = (bcolors.FAIL+"["+bcolors.ENDC+"2"+bcolors.FAIL+"]"+bcolors.WARNING+" Localtunnel"+bcolors.ENDC)
 square_3_host = (bcolors.FAIL+"["+bcolors.ENDC+"3"+bcolors.FAIL+"]"+bcolors.WARNING+" LocalHost.run"+bcolors.ENDC)
 if termuxx != "real":
-    square_3_host = (bcolors.FAIL+"["+bcolors.ENDC+"1"+bcolors.FAIL+"]"+bcolors.WARNING+" LocalHost.run"+bcolors.ENDC)
+    square_3_host = (bcolors.FAIL+"["+bcolors.ENDC+"3"+bcolors.FAIL+"]"+bcolors.WARNING+" LocalHost.run"+bcolors.ENDC)
 
     choice2 = '''
 '''+bcolors.OKGREEN+'''〈'''+bcolors.OKBLUE+'''choose host service '''+bcolors.OKGREEN+'''〉
 
-'''+square_3_host+bcolors.WARNING+''' (raccomanded, graphical cli bugs)'''+bcolors.ENDC+'''
+'''+square_3_host+bcolors.WARNING+''' only one compatible with termux'''+bcolors.ENDC+'''
 '''
 else:
     choice2 = '''
