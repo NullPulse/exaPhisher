@@ -5,7 +5,7 @@ import time
 try:
     from src.setup_ver import *
 except Exception:
-    print("no dipendencies found, go on https://github.com/SamueleAmato/exaphisher and copy-paste in termianl setup command for your system")
+    print("no dipendencies found, go on https://github.com/RedKatz/exaphisher and copy-paste in termianl setup command for your system")
 
 
 
