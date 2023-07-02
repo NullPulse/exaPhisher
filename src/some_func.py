@@ -76,7 +76,7 @@ def banner():
        |  __/>  < (_| '''+bcolors.OKGREEN+'''| |   | | | | \__ \ | | |  __/ |'''+bcolors.WARNING+'''   
         \___/_/\_\__,_'''+bcolors.OKGREEN+'''\_|   |_| |_|_|___/_| |_|\___|_|'''+bcolors.WARNING+'''   
 
-  '''+square_version+bcolors.OKGREEN+''' ╍'''+bcolors.OKBLUE+''' Phishing tool by @SamueleAmato '''+bcolors.OKGREEN+'''╍
+  '''+square_version+bcolors.OKGREEN+''' ╍'''+bcolors.OKBLUE+''' Phishing tool by @RedKatz '''+bcolors.OKGREEN+'''╍
 
   '''     +bcolors.ENDC+bcolors.BG_RED+''':: Disclaimer: Developers assumes no liability and are not   ::'''+bcolors.ENDC+'''
   '''     +bcolors.BG_RED+''':: responsible for any misuse or damage caused by exaPhisher ::'''+bcolors.ENDC+
