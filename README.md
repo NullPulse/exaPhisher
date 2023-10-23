@@ -6,8 +6,8 @@
   <b>A easy to use, Automated phishing tool.</b> <br><br>
   <img src="https://img.shields.io/badge/Version-0.1.0-green" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-RedKatz-937DC2" alt=""/>  
-  <a href="https://scrutinizer-ci.com/g/RedKatz/exaPhisher/"><img src="https://img.shields.io/badge/Code quality-10.00-lightgreen" alt=""/></a> 
+  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>  
+  <a href="https://scrutinizer-ci.com/g/SamueleAmato/exaPhisher/"><img src="https://img.shields.io/badge/Code quality-10.00-lightgreen" alt=""/></a> 
 </p>
 
 ##
@@ -69,7 +69,7 @@
 
 - Linux & Termux
   ```
-  git clone https://github.com/RedKatz/exaPhisher/
+  git clone https://github.com/SamueleAmato/exaPhisher/
   cd exaPhisher
   cd src && python3 setup.py
   cd ..
@@ -100,11 +100,4 @@
 </p>
  
   
-##
 
-#### Find me on:
-
-<p>
-  <img src="https://camo.githubusercontent.com/1bd9c02d067702f4cc56bc23d0432260cf89cf46ecae6c48e0dbc656ae7fc483/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" alt=""/>
-
-</p>
